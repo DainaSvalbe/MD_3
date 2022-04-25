@@ -1,0 +1,15 @@
+D:\karlis\VisualStudio_proj\19_04_2022\MD_3\MD_3\MD_3\MD_3\bin\Debug\net6.0\MD_3.exe
+D:\karlis\VisualStudio_proj\19_04_2022\MD_3\MD_3\MD_3\MD_3\bin\Debug\net6.0\MD_3.deps.json
+D:\karlis\VisualStudio_proj\19_04_2022\MD_3\MD_3\MD_3\MD_3\bin\Debug\net6.0\MD_3.runtimeconfig.json
+D:\karlis\VisualStudio_proj\19_04_2022\MD_3\MD_3\MD_3\MD_3\bin\Debug\net6.0\MD_3.dll
+D:\karlis\VisualStudio_proj\19_04_2022\MD_3\MD_3\MD_3\MD_3\bin\Debug\net6.0\MD_3.pdb
+D:\karlis\VisualStudio_proj\19_04_2022\MD_3\MD_3\MD_3\MD_3\obj\Debug\net6.0\MD_3.csproj.AssemblyReference.cache
+D:\karlis\VisualStudio_proj\19_04_2022\MD_3\MD_3\MD_3\MD_3\obj\Debug\net6.0\MD_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\karlis\VisualStudio_proj\19_04_2022\MD_3\MD_3\MD_3\MD_3\obj\Debug\net6.0\MD_3.AssemblyInfoInputs.cache
+D:\karlis\VisualStudio_proj\19_04_2022\MD_3\MD_3\MD_3\MD_3\obj\Debug\net6.0\MD_3.AssemblyInfo.cs
+D:\karlis\VisualStudio_proj\19_04_2022\MD_3\MD_3\MD_3\MD_3\obj\Debug\net6.0\MD_3.csproj.CoreCompileInputs.cache
+D:\karlis\VisualStudio_proj\19_04_2022\MD_3\MD_3\MD_3\MD_3\obj\Debug\net6.0\MD_3.dll
+D:\karlis\VisualStudio_proj\19_04_2022\MD_3\MD_3\MD_3\MD_3\obj\Debug\net6.0\refint\MD_3.dll
+D:\karlis\VisualStudio_proj\19_04_2022\MD_3\MD_3\MD_3\MD_3\obj\Debug\net6.0\MD_3.pdb
+D:\karlis\VisualStudio_proj\19_04_2022\MD_3\MD_3\MD_3\MD_3\obj\Debug\net6.0\MD_3.genruntimeconfig.cache
+D:\karlis\VisualStudio_proj\19_04_2022\MD_3\MD_3\MD_3\MD_3\obj\Debug\net6.0\ref\MD_3.dll
