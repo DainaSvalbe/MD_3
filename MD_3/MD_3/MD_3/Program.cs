@@ -14,3 +14,17 @@ person.IzmersZ = 30;
 
 person.Call();
 person.Sms();
+
+//-------------------------------
+Console.WriteLine("----------------------------------");
+
+Masina car = new Masina();
+
+car.Brand = "Tesla";
+car.Number = "xx";
+car.Speed = 50;
+
+car.StartDrive();
+car.Accelerate();
+car.Stop();
+car.Beep();
