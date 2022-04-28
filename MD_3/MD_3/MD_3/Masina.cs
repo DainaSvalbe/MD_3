@@ -24,6 +24,7 @@ namespace MD_3
         public double Accelerate()
         {
             Speed += 10;
+            //return Speed;
             Console.WriteLine($"Paatrinaas {Speed}");
             return Speed;
 
